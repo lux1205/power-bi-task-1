@@ -14,10 +14,12 @@ PERFORMANCE USING SAMPLE DATA.
 - Sales trends over time
 - Top-performing products
 - Regional sales performance
+
 Using sample data, create a dashboard with cards displaying the following metrics:
 - Maximum profit achieved
 - Most popular payment method
 - Top-selling state
 Please find the desired output below for reference."
+
 ##OUTPUT
 [salesdashboard.pdf](https://github.com/user-attachments/files/18631185/salesdashboard.pdf)
